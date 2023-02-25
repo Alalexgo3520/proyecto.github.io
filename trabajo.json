@@ -1,0 +1,40 @@
+{
+    "squadName" : "SUPERINGENIEBRIOS",
+    "homeTown" : "DROGOTA",
+    "formed" : 2021,
+    "secretBase" : "Super tower",
+    "active" : true,
+    "members" : [
+      {
+        "name" : "WEBASTIAN",
+        "age" : 19,
+        "secretIdentity" : "Peter Languila",
+        "powers" : [
+          "Baile Sensual",
+          "Programacion en Reversa",
+          "Vision Inflarroja"
+        ]
+      },
+      {
+        "name" : "ROJITAS",
+        "age" : 78,
+        "secretIdentity" : "Marilyn Menson",
+        "powers" : [
+          "Elixir Eterna juventud",
+          "Programacion en Desorden",
+          "Verbo sin fin"
+        ]
+      },
+      {
+        "name" : "CAMIDOL",
+        "age" : 30,
+        "secretIdentity" : "Robbin Hood",
+        "powers" : [
+          "Estomago de Gamin",
+          "Programacion en Abstracto",
+          "Riñon de Palo"
+        ]
+      }
+    ]
+  }
+  
